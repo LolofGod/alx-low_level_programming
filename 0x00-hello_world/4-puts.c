@@ -1,7 +1,7 @@
 #include <stdio. h>
 /**
  * main - firstc peogramming
- * Return: 0
+ * Return: 0 (Success)
  */
 int main(void)
 {
