@@ -1,6 +1,6 @@
 #include <stdio. h>
 /**
- * main . firstc peogramming
+ * main - firstc peogramming
  * Return: 0
  */
 int main(void)
