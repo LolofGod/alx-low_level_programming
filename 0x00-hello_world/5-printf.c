@@ -1,4 +1,4 @@
-#include <sdio.h>
+#include <stdio.h>
 /**
  * main - Online soln
  * Return: 0 (Success)
