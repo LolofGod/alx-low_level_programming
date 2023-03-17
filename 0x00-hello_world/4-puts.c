@@ -1,4 +1,4 @@
-#include <stdio. h>
+#include <stdio.h>
 /**
  * main - firstc peogramming
  * Return: 0 (Success)
